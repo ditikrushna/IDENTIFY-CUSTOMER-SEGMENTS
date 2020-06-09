@@ -1,2 +1,2 @@
-# Linear-Regression-with-Python
-Implementation of linear Regression and gradient descent learning algorithm 
+###  Machine Learning Models and Algorithms Implementaion from scratchn in Python
+
