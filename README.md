@@ -1,2 +1,2 @@
-###  Machine Learning Models and Algorithms Implementaion from scratchn in Python
+###  Identify Customer Segments Machine Learning Project 
 
