@@ -5,9 +5,11 @@
   * [Motivation](#motivation)
   * [Objective](#objective) 
   * [Data Overview](#data-overview) 
-  * [To Do](#to-do)
   * [Technologies Used](#technologies-used)
+  * [Techniques Used](#technique-used)
+  * [To Do](#to-do)
   * [Team](#team)
+  * [Licence](#licence)
   * [Credits](#credits)
 
 ### Overview 
@@ -37,3 +39,9 @@ The files used in the project:
 <img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/numpy.png" width=170>  
 <img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/pandas.png" width=170>  
 
+### Techniques Used 
+
+
+
+### Licence
+Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a [https://creativecommons.org/publicdomain/zero/1.0/](Creative Commons CC0 1.0 Universal (CC0 1.0) )license.
