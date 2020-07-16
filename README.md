@@ -6,16 +6,9 @@
   * [Motivation](#motivation)
   * [Objective](#objective) 
   * [Data Overview](#data-overview) 
-  * [Technical Aspect](#technical-aspect)
-  * [Installation](#installation)
-  * [Run](#run)
-  * [Deployement on Heroku](#deployement-on-heroku)
-  * [Directory Tree](#directory-tree)
   * [To Do](#to-do)
-  * [Bug / Feature Request](#bug---feature-request)
   * [Technologies Used](#technologies-used)
   * [Team](#team)
-  * [License](#license)
   * [Credits](#credits)
 
 ### Overview 
