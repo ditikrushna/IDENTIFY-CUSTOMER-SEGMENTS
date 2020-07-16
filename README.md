@@ -65,3 +65,4 @@ Feel free to use the code and let me know if the model can be improved. If you w
 
 ### Credits 
 1.  Results and Discussion part taken from [Ksatola](https://github.com/ksatola)'s notebook . 
+2.  Logo of different packages are taken from different source and they are all non-copyright images . 
