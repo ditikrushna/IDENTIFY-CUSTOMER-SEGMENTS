@@ -43,3 +43,5 @@ The files used in the project:
 <img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/Seaborn.jpg" width=170> 
 <img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/matplotlib.png" width=170> 
 <img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/numpy.png" width=170>  
+<img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/pandas.png" width=170>  
+
