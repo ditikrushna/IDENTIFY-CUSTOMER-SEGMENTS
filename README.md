@@ -54,7 +54,6 @@ The company seems to be doing well with rather older people, living in less-dens
 
 The company is not so efficient in targeting more younger and educated audience, living in more high-density areas, having bigger consumption and being more materialistic (focus on spending). 
 
-### Teams 
 ### Team  
 [![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
 -|
@@ -63,3 +62,6 @@ The company is not so efficient in targeting more younger and educated audience,
 
 ### Licence
 Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)license.  
+
+### Credits 
+1.  Results and Discussion part taken from [Ksatola] (https://github.com/ksatola)'s notebook . 
