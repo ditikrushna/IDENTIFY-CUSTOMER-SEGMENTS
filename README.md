@@ -7,6 +7,7 @@
   * [Data Overview](#data-overview) 
   * [Technologies Used](#technologies-used)
   * [Techniques Used](#technique-used)
+  * [Results and Discussion](#Result-and-discussion)
   * [To Do](#to-do)
   * [Team](#team)
   * [Licence](#licence)
@@ -44,6 +45,13 @@ The files used in the project:
 1. K-means clustering
 2. PCA 
 
+### Results and Discussion 
+A comparison of customer to demographics data. The two clusters distribution comparison allowed to see where the strongest customer base for the company is. 
 
+<image target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/result.png" width=""> 
+
+The company seems to be doing well with rather older people, living in less-dense households, more traditional and conservative (focus on investing/saving) where mail order sales can appear to be a more attractive option.
+
+The company is not so efficient in targeting more younger and educated audience, living in more high-density areas, having bigger consumption and being more materialistic (focus on spending). 
 ### Licence
 Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)license.  
