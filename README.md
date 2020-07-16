@@ -1,7 +1,6 @@
 ##  Identify Customer Segments (Machine Learning Project)
 
 ### Table of Content
-  * [Demo](#demo)
   * [Overview](#overview)
   * [Motivation](#motivation)
   * [Objective](#objective) 
