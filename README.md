@@ -38,6 +38,7 @@ The files used in the project:
 
 ### Technologies Used  
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
+
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
 
 
