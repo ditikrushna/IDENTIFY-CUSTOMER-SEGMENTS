@@ -9,6 +9,7 @@
   * [Techniques Used](#technique-used)
   * [Results and Discussion](#Result-and-discussion)
   * [To Do](#to-do)
+  * [Bug / Feature Request](#bug---feature-request)
   * [Team](#team)
   * [Licence](#licence)
   * [Credits](#credits)
@@ -57,6 +58,11 @@ The company is not so efficient in targeting more younger and educated audience,
 1. Apply different clustering algorithms 
 2. Creates a web application 
 3. Deplyment has to be done in near future in some platform like [Heroku](https://g.co/kgs/D6wEju)
+
+### Bug / Feature Request
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/issues/) by including your search query and the expected result.
+
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/issues/new). Please include sample queries and their corresponding results.
 
 ### Team  
 [![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
