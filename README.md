@@ -40,6 +40,8 @@ The files used in the project:
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo-small.png">](https://github.com/scikit-learn/)
-<img target="_blank" src="[https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/pandas.png](https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/pandas.png)" width=170> 
+<img target="_blank" src="https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/Seaborn.jpg" width=170> 
+
+
 <img target="_blank" src="[https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/matplotlib.png](https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/matplotlib.png)" width=170> 
 <img target="_blank" src="[https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/numpy.png](https://github.com/ditikrushna/IDENTIFY-CUSTOMER-SEGMENTS/blob/master/Resource/numpy.png)" width=170>  
