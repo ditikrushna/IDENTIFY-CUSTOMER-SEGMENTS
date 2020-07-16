@@ -64,4 +64,4 @@ The company is not so efficient in targeting more younger and educated audience,
 Feel free to use the code and let me know if the model can be improved. If you would like to do further analysis, it is available below under a [Creative Commons CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)license.  
 
 ### Credits 
-1.  Results and Discussion part taken from [Ksatola] (https://github.com/ksatola)'s notebook . 
+1.  Results and Discussion part taken from [Ksatola](https://github.com/ksatola)'s notebook . 
