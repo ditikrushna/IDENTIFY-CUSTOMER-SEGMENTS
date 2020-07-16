@@ -53,6 +53,10 @@ A comparison of customer to demographics data. The two clusters distribution com
 The company seems to be doing well with rather older people, living in less-dense households, more traditional and conservative (focus on investing/saving) where mail order sales can appear to be a more attractive option.
 
 The company is not so efficient in targeting more younger and educated audience, living in more high-density areas, having bigger consumption and being more materialistic (focus on spending). 
+### Todo 
+1. Apply different clustering algorithms 
+2. Creates a web application 
+3. Deplyment has to be done in near future in some platform like [Heroku](https://g.co/kgs/D6wEju)
 
 ### Team  
 [![Ditikrushna Giri](https://ditikrushna.me/images/diti.jpg)](https://ditikrushna.me/) |
