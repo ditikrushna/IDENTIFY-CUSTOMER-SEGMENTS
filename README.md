@@ -41,6 +41,8 @@ The files used in the project:
 
 ### Techniques Used 
 
+1. K-means clustering
+2. PCA 
 
 
 ### Licence
